@@ -1,4 +1,4 @@
-package me.serenadehl
+package com.serenadehl
 
 import android.app.Activity
 import android.support.v4.app.Fragment
